@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+欢迎关注 Jenkins 官方微信公众号 ![](jenkins-wechat-qrcode.jpg)
+
 ### Github Stats
 
 ![Rick's github stats](https://github-readme-stats.vercel.app/api?username=linuxsuren&count_private=false)
