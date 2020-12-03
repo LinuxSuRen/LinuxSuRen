@@ -15,8 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Welcome to subscribe Jenkins offical Wechat account! 欢迎关注 Jenkins 官方微信公众号 ![](https://raw.githubusercontent.com/LinuxSuRen/LinuxSuRen/master/jenkins-wechat-qrcode.png)
-
-### Github Stats
-
-![Rick's github stats](https://github-readme-stats.vercel.app/api?username=linuxsuren&count_private=false)
+I'm a contributor of serval open-source project. Please join us if you're interested in them: [Jenkins CLI](https://github.com/jenkins-zh/jenkins-cli), [kubsphere](https://github.com/kubesphere/kubesphere).
