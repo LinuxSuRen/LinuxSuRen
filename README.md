@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a contributor of serval open-source project. Please join us if you're interested in them: [Jenkins CLI](https://github.com/jenkins-zh/jenkins-cli), [kubsphere](https://github.com/kubesphere/kubesphere).
+I'm a contributor of serval open-source projects. Please join us if you're interested in them: [Jenkins CLI](https://github.com/jenkins-zh/jenkins-cli), [kubsphere](https://github.com/kubesphere/kubesphere).
