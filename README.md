@@ -23,4 +23,4 @@ If you also intrested in creating a CLI by Golang. I'd recommend you use [cobra]
 
 [Selenium](https://github.com/seleniumhq/selenium/) is a wonderful project which can help us to do the UI testing work. It's very important to do as many as possible tests before a Pull Request getting merged. For example, I have [an automatic UI testing project](https://github.com/LinuxSuRen/ks-ui-test) to do that kind of things. Actually it's super simple, I don't need to take care of a lot details of Selenium. Because I have [an awesome Selenium framework](https://github.com/LinuxSuRen/phoenix.webui.framework).
 
-Get 5% discount off on any LF official [training](https://training.linuxfoundation.cn/courses) and [certification](https://training.linuxfoundation.cn/certificates) products with code `Affrzx95-242a4e`
+**Get 5% discount off on any LF official [training](https://training.linuxfoundation.cn/courses) and [certification](https://training.linuxfoundation.cn/certificates) products with code `Affrzx95-242a4e`**
