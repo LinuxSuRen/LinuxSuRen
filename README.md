@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a contributor of serval open-source projects. Please join us if you're interested in them: [Jenkins CLI](https://github.com/jenkins-zh/jenkins-cli), [kubsphere](https://github.com/kubesphere/kubesphere).
+I'm a contributor of serval open-source projects. Please join us if you're interested in them: [Jenkins CLI](https://github.com/jenkins-zh/jenkins-cli), [kubsphere](https://github.com/kubesphere/kubesphere). You might be interested in open-source too, feel free to collaborate with me to build up [the open-source participant best practice](https://github.com/LinuxSuRen/open-source-best-practice).
 
 [CLI](https://github.com/topics/cli) always can make us be more efficent 🚀. For example, I can type less words via [ks](https://github.com/LinuxSuRen/ks) when I manipulate [kubeSphere](https://github.com/kubesphere/kubesphere). Another case is that, you might stuck with cloning a amazing open source project due the the network issues. I don't want to waste my time, so I created [cgit](https://github.com/LinuxSuRen/cgit) which can clone the code by [a GitHub proxy](http://github.com.cnpmjs.org/).
 
