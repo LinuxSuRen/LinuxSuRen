@@ -10,4 +10,4 @@ Here is the list of my public speaking.
 | [Build up a Reliable Jenkins on KubeSphere](https://www.devopsworld.com/agenda/session/581404) | DevOps World  | English :us: | Online | Wed Sep 29 |
 | [Let Jenkins be part of the Kubernetes](https://www.meetup.com/Jenkins-online-meetup/events/281089570/) | Jenkins Contributor Summit | English :us: | Online | Sat Oct 9 |
 | [KubeSphere DevOps 越开放，越强大](https://mp.weixin.qq.com/s/f9acyj8pi5mjWXm8zSksWA) | KubeSphere Meetup  | 中文 :cn: | 杭州 | 10月23日 |
-| [开源教育与师徒制](https://www.bagevent.com/event/7685233) | 开源年会，教育分论坛 | 中文 :cn: | Online | 10月 |
+| [开源教育与师徒制](https://mp.weixin.qq.com/s/xerfzhMSFpe4ntUVtBI6WA) | 开源年会，教育分论坛 | 中文 :cn: | Online | 10月 |
