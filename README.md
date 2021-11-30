@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a contributor of serval open-source projects. Please join us if you're interested in them: [Jenkins CLI](https://github.com/jenkins-zh/jenkins-cli), [kubsphere](https://github.com/kubesphere/kubesphere). You might be interested in open-source too, feel free to collaborate with me to build up [the open-source participant best practice](https://github.com/LinuxSuRen/open-source-best-practice).
+I'm a contributor of serval open-source projects. Please join us if you're interested in them: [Jenkins CLI](https://github.com/jenkins-zh/jenkins-cli), [KubeSphere](https://github.com/kubesphere/kubesphere). You might be interested in open-source too, feel free to collaborate with me to build up [the open-source participant best practice](https://github.com/LinuxSuRen/open-source-best-practice).
 
 [CLI](https://github.com/topics/cli) always can make us be more efficent 🚀. For example, I can type less words via [ks](https://github.com/kubesphere-sigs/ks) when I manipulate [kubeSphere](https://github.com/kubesphere/kubesphere). Or you can use [this tool](https://github.com/LinuxSuRen/http-downloader/) to install a package from GitHub release. [goplay](https://github.com/LinuxSuRen/goplay) is a tiny tool to listen to podcasts.
 
