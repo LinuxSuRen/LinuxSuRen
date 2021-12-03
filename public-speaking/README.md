@@ -14,3 +14,5 @@ Here is the list of my public speaking.
 | [KubeSphere DevOps 越开放，越强大](https://mp.weixin.qq.com/s/f9acyj8pi5mjWXm8zSksWA) | KubeSphere Meetup  | 中文 :cn: | 杭州 | 10月23日 |
 | [开源教育与师徒制](https://mp.weixin.qq.com/s/xerfzhMSFpe4ntUVtBI6WA) | 开源年会，教育分论坛 | 中文 :cn: | Online | 10月 |
 | [远程办公的深层逻辑](https://mp.weixin.qq.com/s/W0c9ydGyMkQ3Arq2lLSZKg) | 极狐GitLab 大讲坛 | 中文 :cn: | [Online](https://www.ximalaya.com/keji/54781524/475958284) | 11月24日 |
+
+![Visitor Count](https://profile-counter.glitch.me/{LinuxSuRen}/count.svg)
