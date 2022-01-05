@@ -7,5 +7,3 @@ I'm a contributor of several open-source projects. Please join us if you're inte
 [CLI](https://github.com/topics/cli) always can make us be more efficient 🚀. For example, I can type fewer words via [ks](https://github.com/kubesphere-sigs/ks) when I manipulate [kubeSphere](https://github.com/kubesphere/kubesphere). Or you can use [this tool](https://github.com/LinuxSuRen/http-downloader/) to install a package from the GitHub release. [goplay](https://github.com/LinuxSuRen/goplay) is a tiny tool to listen to podcasts.
 
 I love to share my ideas in [public speaking](public-speaking/README.md). Or, you can try [podcast](https://github.com/opensource-f2f/episode) if you prefer listening to audio. Want to make a friend with me? Making a connection in social media platforms (such as [Linkedin](https://www.linkedin.com/in/linuxsuren/), [Twitter](https://twitter.com/linuxsuren)) with me might be the first step.
-
-**Get 5% discount off on any LF official [training](https://training.linuxfoundation.cn/courses) and [certification](https://training.linuxfoundation.cn/certificates) products with code `Affrzx95-242a4e`**
