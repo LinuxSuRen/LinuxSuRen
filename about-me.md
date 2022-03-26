@@ -15,3 +15,8 @@
 |---|---|
 | 思否 | https://segmentfault.com/u/linuxsuren |
 | V2EX | https://v2ex.com/member/linuxsuren |
+
+如果你也热爱开源文化，可以考虑共同维护[《开源最佳实践》](https://github.com/LinuxSuRen/open-source-best-practice)。
+
+## 电影推荐
+* [励志类电影](https://github.com/LinuxSuRen/inspirational-movie/)
