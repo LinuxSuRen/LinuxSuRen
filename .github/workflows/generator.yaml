@@ -1,0 +1,27 @@
+name: generator
+
+on:
+  push:
+    branches: [ master ]
+
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    if: "!contains(github.event.head_commit.message, 'ci skip')"
+
+    steps:
+      - uses: actions/checkout@v3
+      - name: Update readme
+        uses: linuxsuren/yaml-readme@master
+        env:
+          GH_TOKEN: ${{ secrets.GH_SECRETS }}
+        with:
+          pattern: 'public-speaking/data/*.yaml'
+          template: 'public-speaking/README.tpl'
+          output: 'public-speaking/README.md'
+          username: linuxsuren
+          org: linuxsuren
+          repo: linuxsuren
+          groupby: year
