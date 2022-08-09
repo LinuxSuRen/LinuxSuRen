@@ -9,3 +9,6 @@ I'm a contributor of several open-source projects. Please join us if you're inte
 I love to share my ideas in [public speaking](public-speaking/README.md). Or, you can try [podcast](https://github.com/opensource-f2f/episode) if you prefer listening to audio. Want to make a friend with me? Making a connection in social media platforms (such as [Linkedin](https://www.linkedin.com/in/linuxsuren/), [Twitter](https://twitter.com/linuxsuren), [FeiShu](https://www.feishu.cn/invitation/page/add_contact/?token=9aaq265c-5586-46ab-ae57-8b18d7230d03&amp;unique_id=nwpXJcLJFyiytgXFTt-kYQ==)) with me might be the first step.
 
 Please feel free [to book a time](https://calendly.com/linuxsuren) if you'd like to have a 1-1 talk with me. I'd happy to talk about open-source, carre or something related to me.
+
+Blogs:
+* [Jenkins](https://www.jenkins.io/blog/authors/linuxsuren/)
