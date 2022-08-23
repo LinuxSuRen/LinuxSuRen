@@ -12,3 +12,16 @@ Please feel free [to book a time](https://calendly.com/linuxsuren) if you'd like
 
 Blogs:
 * [Jenkins](https://www.jenkins.io/blog/authors/linuxsuren/)
+
+<details>
+  <summary><b>My open-source projects</b></summary>
+
+| Project | Code Coverage | Version |
+|---|---|---|
+| [yaml-readme](https://github.com/linuxsuren/yaml-readme) | [![codecov](https://codecov.io/gh/LinuxSuRen/yaml-readme/branch/master/graph/badge.svg?token=mnFyeD2IQ7)](https://codecov.io/gh/LinuxSuRen/yaml-readme) | |
+| [Jenkins Go Client](https://github.com/jenkins-zh/jenkins-client/) | [![codecov](https://codecov.io/gh/jenkins-zh/jenkins-client/branch/main/graph/badge.svg?token=8N1vvFPxPm)](https://codecov.io/gh/jenkins-zh/jenkins-client) ||
+| [Jenkins CLI](https://github.com/jenkins-zh/jenkins-cli/) | [![codecov](https://codecov.io/gh/jenkins-zh/jenkins-cli/branch/master/graph/badge.svg?token=XS8g2CjdNL)](https://codecov.io/gh/jenkins-zh/jenkins-cli) ||
+| [Download Tool](https://github.com/LinuxSuRen/http-downloader) | [![codecov](https://codecov.io/gh/LinuxSuRen/http-downloader/branch/master/graph/badge.svg?token=Ntc8z2iEQ2)](https://codecov.io/gh/LinuxSuRen/http-downloader) ||
+| [Unstructured data library](https://github.com/LinuxSuRen/unstructured/) | [![codecov](https://codecov.io/gh/linuxsuren/unstructured/branch/master/graph/badge.svg?token=PM6Purfrkd)](https://codecov.io/gh/linuxsuren/unstructured) ||
+
+</details>
