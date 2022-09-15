@@ -15,7 +15,8 @@ Rick，程序员，业余[^1]开源布道者。深度参与过 [Jenkins](https:/
 
 | 节目 | 名称 | 日期 |
 |---|---|---|
-| 一派·Podcast | [技术播客月，我们一起聊聊技术与开源 ](https://www.xiaoyuzhoufm.com/episode/62bbb8015302a45f2498a057) | 2020年7月 |
+| 编码人声 | [从一个播客的诞生，看开源精神的内核](https://www.xiaoyuzhoufm.com/episode/6321f13059e6eb5d21cdb1dd) | 2022年9月14日 |
+| 一派·Podcast | [技术播客月，我们一起聊聊技术与开源 ](https://www.xiaoyuzhoufm.com/episode/62bbb8015302a45f2498a057) | 2022年7月 |
 
 我的一些社媒账号：
 
