@@ -1,6 +1,6 @@
 [:cn:](about-me.md) [:us:](README.md)
 
-Rick，程序员，业余[^1]开源布道者。深度参与过 [Jenkins](https://github.com/jenkinsci/jenkins)、[KubeSphere](https://github.com/kubesphere) 等社区，[《开源面对面》](https://github.com/opensource-f2f/episode)播客节目的主持人。
+Rick，程序员，业余[^1]开源布道者。关注开源、云原生、隐私计算等领域，深度参与过 [Jenkins](https://github.com/jenkinsci/jenkins)、[KubeSphere](https://github.com/kubesphere) 等社区，是[《开源面对面》](https://github.com/opensource-f2f/episode)播客节目的主持人。
 
 几乎所有的开源组织、企业、基金会在为开源世界里的精英、大佬们提供平台，绝大部分的聚光灯也随之打在了他们身上。然而，除了那些频频出现在大众视野里的人以外，有着更多的、处在行业一线普普通通的人，这些平日里默默地关注着“明星”的大众，也必然有着优秀的、有趣的故事，值得我们分享。我希望通过[《开源面对面》](https://github.com/opensource-f2f/episode)这档播客节目让更能体现开源多样性的人也能讲述他们的故事，感染有着相似处境、想法的人开始关注、思考开源。
 
