@@ -26,3 +26,14 @@ Blogs:
 | [Data transfer tool](https://github.com/LinuxSuRen/transfer/) | [![codecov](https://codecov.io/gh/linuxsuren/transfer/branch/master/graph/badge.svg?token=PM6Purfrkd)](https://codecov.io/gh/linuxsuren/transfer) | [![GitHub release](https://img.shields.io/github/release/linuxsuren/transfer.svg?label=release)](https://github.com/linuxsuren/transfer/releases/latest) | ![GitHub All Releases](https://img.shields.io/github/downloads/linuxsuren/transfer/total) |
 
 </details>
+
+<details>
+  <summary><b>My non-code projects</b></summary>
+
+| Project | Star |
+| --- | --- |
+| [open-source-best-practice](https://github.com/linuxsuren/open-source-best-practice) | ![GitHub Repo stars](https://img.shields.io/github/stars/linuxsuren/open-source-best-practice?style=social) |
+| [awesome-feeds](https://github.com/linuxsuren/awesome-feeds) | ![GitHub Repo stars](https://img.shields.io/github/stars/linuxsuren/awesome-feeds?style=social) |
+| [remote-jobs-in-china](https://github.com/linuxsuren/remote-jobs-in-china) | ![GitHub Repo stars](https://img.shields.io/github/stars/linuxsuren/remote-jobs-in-china?style=social) |
+
+</details>
