@@ -36,5 +36,6 @@ Blogs:
 | [awesome-feeds](https://github.com/linuxsuren/awesome-feeds) | ![GitHub Repo stars](https://img.shields.io/github/stars/linuxsuren/awesome-feeds?style=social) |
 | [remote-jobs-in-china](https://github.com/linuxsuren/remote-jobs-in-china) | ![GitHub Repo stars](https://img.shields.io/github/stars/linuxsuren/remote-jobs-in-china?style=social) |
 | [jenkins-learning-guide](https://github.com/LinuxSuRen/jenkins-learning-guide) | ![GitHub Repo stars](https://img.shields.io/github/stars/linuxsuren/jenkins-learning-guide?style=social) |
+| [awesome-swag](https://github.com/LinuxSuRen/awesome-swag) | ![GitHub Repo stars](https://img.shields.io/github/stars/linuxsuren/awesome-swag?style=social) |
 
 </details>
