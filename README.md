@@ -46,18 +46,6 @@ Blogs:
 <details>
   <summary><b>My GitHub Pages</b></summary>
 
-||||
-|---|---|---|
-|remote-jobs-in-china|![GitHub Repo stars](https://img.shields.io/github/stars/LinuxSuRen/remote-jobs-in-china?style=social)|[view](https://LinuxSuRen.github.io/remote-jobs-in-china/)|
-|awesome-swag|![GitHub Repo stars](https://img.shields.io/github/stars/LinuxSuRen/awesome-swag?style=social)|[view](https://LinuxSuRen.github.io/awesome-swag/)|
-|open-source-best-practice|![GitHub Repo stars](https://img.shields.io/github/stars/LinuxSuRen/open-source-best-practice?style=social)|[view](https://LinuxSuRen.github.io/open-source-best-practice/)|
-|awesome-feeds|![GitHub Repo stars](https://img.shields.io/github/stars/LinuxSuRen/awesome-feeds?style=social)|[view](https://LinuxSuRen.github.io/awesome-feeds/)|
-|LinuxSuRen|![GitHub Repo stars](https://img.shields.io/github/stars/LinuxSuRen/LinuxSuRen?style=social)|[view](https://LinuxSuRen.github.io/LinuxSuRen/)|
-|open-source-events|![GitHub Repo stars](https://img.shields.io/github/stars/LinuxSuRen/open-source-events?style=social)|[view](https://LinuxSuRen.github.io/open-source-events/)|
-|surenpi|![GitHub Repo stars](https://img.shields.io/github/stars/LinuxSuRen/surenpi?style=social)|[view](https://LinuxSuRen.github.io/surenpi/)|
-|phoenix.platform|![GitHub Repo stars](https://img.shields.io/github/stars/LinuxSuRen/phoenix.platform?style=social)|[view](https://LinuxSuRen.github.io/phoenix.platform/)|
-|tools|![GitHub Repo stars](https://img.shields.io/github/stars/LinuxSuRen/tools?style=social)|[view](https://LinuxSuRen.github.io/tools/)|
-|audacity-label-plugin|![GitHub Repo stars](https://img.shields.io/github/stars/LinuxSuRen/audacity-label-plugin?style=social)|[view](https://LinuxSuRen.github.io/audacity-label-plugin/)|
-|linuxsuren.github.io|![GitHub Repo stars](https://img.shields.io/github/stars/LinuxSuRen/linuxsuren.github.io?style=social)|[view](https://LinuxSuRen.github.io/linuxsuren.github.io/)|
+
 
 </details>
