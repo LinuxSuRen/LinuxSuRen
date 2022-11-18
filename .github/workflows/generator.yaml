@@ -32,6 +32,7 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_SECRETS }}
         with:
           template: 'README.tpl'
+          pattern: 'fake/*.yaml'
           output: 'README.md'
           username: linuxsuren
           org: linuxsuren
