@@ -13,8 +13,8 @@ jobs:
 
     steps:
       - uses: actions/checkout@v3
-      - name: Update readme
-        uses: linuxsuren/yaml-readme@master
+      - name: Update readme of speaking
+        uses: linuxsuren/yaml-readme@d746acf13a2cf3fb2c8eeac4b26f95f269d9a904
         env:
           GH_TOKEN: ${{ secrets.GH_SECRETS }}
         with:
@@ -25,3 +25,14 @@ jobs:
           org: linuxsuren
           repo: linuxsuren
           groupby: year
+          push: false
+      - name: Update readme
+        uses: linuxsuren/yaml-readme@d746acf13a2cf3fb2c8eeac4b26f95f269d9a904
+        env:
+          GH_TOKEN: ${{ secrets.GH_SECRETS }}
+        with:
+          template: 'README.tpl'
+          output: 'README.md'
+          username: linuxsuren
+          org: linuxsuren
+          repo: linuxsuren
