@@ -19,3 +19,6 @@
 | Community Activity ||
 | Governance | Public meeting, Open decision, SIG, e.g. |
 | Business friendly ||
+
+## Reference
+* [Open Source Best Practice](https://github.com/LinuxSuRen/open-source-best-practice/)
