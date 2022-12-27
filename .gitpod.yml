@@ -1,0 +1,3 @@
+tasks:
+  - init: curl https://linuxsuren.github.io/tools/install.sh|bash
+    command: hd i cli/cli
