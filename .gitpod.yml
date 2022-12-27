@@ -1,3 +1,3 @@
 tasks:
   - init: curl https://linuxsuren.github.io/tools/install.sh|bash
-    command: hd i cli/cli && gh extension install linuxsuren/gh-dev && echo gh api /orgs/microsoft/repos --paginate | jq '.[].full_name' | xargs -n1 gh dev clone
+    command: hd i cli/cli && gh extension install linuxsuren/gh-dev && echo "gh api /orgs/microsoft/repos --paginate | jq '.[].full_name' | xargs -n1 gh dev clone"
