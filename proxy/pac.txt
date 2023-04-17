@@ -11,7 +11,7 @@ var FindProxyForURL = function(init, profiles) {
 }("+proxy", {
     "+proxy": function(url, host, scheme) {
         "use strict";
-        if (/^127\.0\.0\.1$/.test(host) || /^::1$/.test(host) || /^localhost$/.test(host) || /^testerhome\.com$/.test(host) || /^baidu\.com$/.test(host) || /^gitee\.com$/.test(host) || /^hellogithub\.com$/.test(host) || /^x-lab\.info$/.test(host) || /^wav\.pub$/.test(host)) return "DIRECT";
+        if (/^127\.0\.0\.1$/.test(host) || /^::1$/.test(host) || /^localhost$/.test(host) || /^testerhome\.com$/.test(host) || /^baidu\.com$/.test(host) || /^gitee\.com$/.test(host) || /^hellogithub\.com$/.test(host) || /^x-lab\.info$/.test(host) || /^wav\.pub$/.test(host) || /.*dingtalk\.com/.test(host)) return "DIRECT";
         return "PROXY localhost:16005";
     }
 });
