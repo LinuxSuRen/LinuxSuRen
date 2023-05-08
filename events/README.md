@@ -3,7 +3,7 @@
 Here is the list of my event actives.
 ## 2023
 | Event | Role | Location | Date |
-|---|---|---|---|---|
+|---|---|---|---|
 | [开源之夏北京站-1](https://github.com/LinuxSuRen/open-source-best-practice/issues/113) | 中文 :cn: | 北京 | 3月4日 |
 | [开源之夏北京站-2](https://github.com/LinuxSuRen/open-source-best-practice/issues/113) | 中文 :cn: | 北京 | 5月7日 |
 
