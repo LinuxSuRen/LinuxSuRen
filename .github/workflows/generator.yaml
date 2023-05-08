@@ -26,6 +26,19 @@ jobs:
           repo: linuxsuren
           groupby: year
           push: false
+      - name: Update events
+        uses: linuxsuren/yaml-readme@v0.0.16
+        env:
+          GH_TOKEN: ${{ secrets.GH_SECRETS }}
+        with:
+          pattern: 'events/data/*.yaml'
+          template: 'events/README.tpl'
+          output: 'events/README.md'
+          username: linuxsuren
+          org: linuxsuren
+          repo: linuxsuren
+          groupby: year
+          push: false
       - name: Update readme
         uses: linuxsuren/yaml-readme@v0.0.16
         env:
