@@ -20,5 +20,10 @@ Here is the list of my public speaking.
 |---|---|---|---|---|
 | [开源软件研发流程](https://docs.google.com/presentation/d/1SA6W-WIS4fxwlZh6vSwBAmBq3JE3IvN6uPG0Dp9K_no/edit?usp=sharing) | 华东师范大学 | 中文 :cn: | Online | 4月19日 |
 
+## 2023
+| Subject | Event | Language | Location | Date |
+|---|---|---|---|---|
+| 参与开源，你还只是用爱发电吗 | Apache Con Asia | 中文 :cn: | 北京 | 8月19日 |
+
 
 ![Visitor Count](https://profile-counter.glitch.me/{LinuxSuRen}/count.svg)
