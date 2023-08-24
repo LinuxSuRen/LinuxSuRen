@@ -23,7 +23,7 @@ Here is the list of my public speaking.
 ## 2023
 | Subject | Event | Language | Location | Date |
 |---|---|---|---|---|
-| 参与开源，你还只是用爱发电吗 | Apache Con Asia | 中文 :cn: | 北京 | 8月19日 |
+| [参与开源，你还只是用爱发电吗](https://apachecon.com/acasia2023/sessions/community-1022.html) | Apache Con Asia | 中文 :cn: | 北京 | 8月19日 |
 
 
 ![Visitor Count](https://profile-counter.glitch.me/{LinuxSuRen}/count.svg)
