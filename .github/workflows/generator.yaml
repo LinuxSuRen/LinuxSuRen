@@ -24,7 +24,8 @@ jobs:
           username: linuxsuren
           org: linuxsuren
           repo: linuxsuren
-          groupby: '!year'
+          groupby: year
+          sortby: '!year'
           push: false
       - name: Update events
         uses: linuxsuren/yaml-readme@v0.0.16
@@ -37,7 +38,8 @@ jobs:
           username: linuxsuren
           org: linuxsuren
           repo: linuxsuren
-          groupby: '!year'
+          groupby: year
+          sortby: '!year'
           push: false
       - name: Update readme
         uses: linuxsuren/yaml-readme@v0.0.16
