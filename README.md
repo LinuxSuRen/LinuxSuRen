@@ -50,6 +50,15 @@ Blogs:
 </details>
 
 <details>
+  <summary><b>Part of my contributions</b></summary>
+* [apache](https://github.com/search?q=org%3Aapache+author%3Alinuxsuren+is%3Amerged&type=pullrequests)
+* [jenkinsci](https://github.com/search?q=org%3Ajenkinsci+author%3Alinuxsuren+is%3Amerged+&type=pullrequests)
+* [jenkins-infra](https://github.com/search?q=org%3Ajenkins-infra+author%3Alinuxsuren+is%3Amerged+&type=pullrequests)
+* [kubesphere](https://github.com/search?q=org%3Akubesphere+author%3Alinuxsuren+is%3Amerged+&type=pullrequests)
+* [argoproj](https://github.com/search?q=org%3Aargoproj+author%3Alinuxsuren+is%3Amerged&type=pullrequests)
+</details>
+
+<details>
   <summary><b>My GitHub Pages</b></summary>
 
 
