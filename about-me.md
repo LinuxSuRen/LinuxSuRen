@@ -21,6 +21,7 @@ Rick，程序员，业余[^1]开源布道者。关注开源、云原生等领域
 
 | 节目 | 名称 | 日期 |
 |---|---|---|
+| freeCodeCamp | Ep. 9 Rick：在开源世界里追求下一份“疯狂” | 2023年9月15日 |
 | 编码人声 | [从一个播客的诞生，看开源精神的内核](https://www.xiaoyuzhoufm.com/episode/6321f13059e6eb5d21cdb1dd) | 2022年9月14日 |
 | 一派·Podcast | [技术播客月，我们一起聊聊技术与开源 ](https://www.xiaoyuzhoufm.com/episode/62bbb8015302a45f2498a057) | 2022年7月 |
 | ALC Beijing Podcast | [Talk_Is_Not_Cheap！](https://www.ximalaya.com/sound/583205323) | 2022年11月3日 |
