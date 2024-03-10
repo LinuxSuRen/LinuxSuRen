@@ -39,7 +39,7 @@ jobs:
           org: linuxsuren
           repo: linuxsuren
           groupby: year
-          sortby: '!year'
+          sortby: 'year'
           push: false
       - name: Update readme
         uses: linuxsuren/yaml-readme@v0.0.16
