@@ -26,5 +26,10 @@ Here is the list of my public speaking.
 | [参与开源，你还只是用爱发电吗](https://apachecon.com/acasia2023/sessions/community-1022.html) | Apache Con Asia | 中文 :cn: | 北京 | 8月19日 |
 | [开源鸟瞰](https://mp.weixin.qq.com/s/dJN-hg0iEFXXbjbxLH6ccQ) | 开源之夏校园行北京邮电大学站 | 中文 :cn: | 北京 | 5月24日 |
 
+## 2024
+| Subject | Event | Language | Location | Date |
+|---|---|---|---|---|
+| [试想：与开源之夏同行十个春秋，会发生什么](https://mp.weixin.qq.com/s/oL0vFCRQoNQwKL92PLBq8Q) | 开源之夏 2024 启动会暨北京线下交流会 | 中文 :cn: | 北京 | 3月10日 |
+
 
 ![Visitor Count](https://profile-counter.glitch.me/{LinuxSuRen}/count.svg)
