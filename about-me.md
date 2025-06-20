@@ -15,6 +15,7 @@ Rick，程序员，业余[^1]开源布道者。关注开源、云原生等领域
 * [2022 中国开源先锋 33 人](https://mp.weixin.qq.com/s/rih7D7ESRTd7wSGIb1hQzw)
 * [2021 中国开源码力榜](https://opensource.win/)
 * Most Valuable Jenkins Advocate
+* [首批 LFAPAC 布道师](https://training.linuxfoundation.cn/news/161)
 * [GVP - Gitee Most Valuable Project](https://gitee.com/jenkins-zh/jenkins-cli)
 
 ## 我参与录制的播客列表：
