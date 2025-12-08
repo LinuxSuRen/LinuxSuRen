@@ -20,7 +20,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vcnSfdo0xHseyjyeq5ri-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="1.0 A公司微服务项目" vertex="1">
-          <mxGeometry height="60" width="120" x="480" y="140" as="geometry" />
+          <mxGeometry height="60" width="120" x="480" y="170" as="geometry" />
         </mxCell>
         <mxCell id="vcnSfdo0xHseyjyeq5ri-26" edge="1" parent="1" source="vcnSfdo0xHseyjyeq5ri-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" target="vcnSfdo0xHseyjyeq5ri-25" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -87,6 +87,54 @@
         </mxCell>
         <mxCell id="vcnSfdo0xHseyjyeq5ri-34" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="" vertex="1">
           <mxGeometry height="290" width="120" x="880" y="405" as="geometry" />
+        </mxCell>
+        <mxCell id="-dt7JS_xgsVaXBlrnjoZ-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="1.2.1 明确设计思路" vertex="1">
+          <mxGeometry height="50" width="100" x="250" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="-dt7JS_xgsVaXBlrnjoZ-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="1.2.2 定义系统架构" vertex="1">
+          <mxGeometry height="50" width="100" x="250" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="-dt7JS_xgsVaXBlrnjoZ-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="1.3.1 界面原型设计" vertex="1">
+          <mxGeometry height="50" width="100" x="410" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="-dt7JS_xgsVaXBlrnjoZ-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="1.3.2 测试用例编写" vertex="1">
+          <mxGeometry height="50" width="100" x="410" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="-dt7JS_xgsVaXBlrnjoZ-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="1.3.3 业务代码开发" vertex="1">
+          <mxGeometry height="50" width="100" x="410" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="-dt7JS_xgsVaXBlrnjoZ-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="1.3.4 测试代码开发" vertex="1">
+          <mxGeometry height="50" width="100" x="410" y="630" as="geometry" />
+        </mxCell>
+        <mxCell id="-dt7JS_xgsVaXBlrnjoZ-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="1.4.1 功能提测" vertex="1">
+          <mxGeometry height="50" width="100" x="570" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="-dt7JS_xgsVaXBlrnjoZ-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="1.4.2 黑盒测试" vertex="1">
+          <mxGeometry height="50" width="100" x="570" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="-dt7JS_xgsVaXBlrnjoZ-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="1.4.3 白盒测试" vertex="1">
+          <mxGeometry height="50" width="100" x="570" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="-dt7JS_xgsVaXBlrnjoZ-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="1.4.4 回归测试" vertex="1">
+          <mxGeometry height="50" width="100" x="570" y="630" as="geometry" />
+        </mxCell>
+        <mxCell id="-dt7JS_xgsVaXBlrnjoZ-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="1.5.1 环境检查" vertex="1">
+          <mxGeometry height="50" width="100" x="730" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="-dt7JS_xgsVaXBlrnjoZ-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="1.5.2 功能上线" vertex="1">
+          <mxGeometry height="50" width="100" x="730" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="-dt7JS_xgsVaXBlrnjoZ-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="1.5.3 上线确认" vertex="1">
+          <mxGeometry height="50" width="100" x="730" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="-dt7JS_xgsVaXBlrnjoZ-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="1.6.1 日常运维" vertex="1">
+          <mxGeometry height="50" width="100" x="890" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="-dt7JS_xgsVaXBlrnjoZ-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="1.6.2 工单处理" vertex="1">
+          <mxGeometry height="50" width="100" x="890" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="-dt7JS_xgsVaXBlrnjoZ-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="1.6.3 需求反馈" vertex="1">
+          <mxGeometry height="50" width="100" x="890" y="560" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
