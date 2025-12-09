@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.2.4">
   <diagram name="Page-1" id="b7a7eaba-c6c5-6fbe-34ae-1d3a4219ac39">
-    <mxGraphModel dx="994" dy="693" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1377" dy="693" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" parent="0" style=";html=1;" />
@@ -11,7 +11,7 @@
           <mxGeometry height="240" width="20" x="986" y="604" as="geometry" />
         </mxCell>
         <mxCell id="279d4c6e8b4f5ae2-5" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=20;rotation=90;" value="" vertex="1">
-          <mxGeometry height="521" width="20" x="899" y="359" as="geometry" />
+          <mxGeometry height="521" width="30" x="899" y="359" as="geometry" />
         </mxCell>
         <mxCell id="279d4c6e8b4f5ae2-7" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=20;rotation=155;" value="" vertex="1">
           <mxGeometry height="240" width="20" x="818" y="385" as="geometry" />
@@ -31,32 +31,35 @@
         <mxCell id="279d4c6e8b4f5ae2-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;fontSize=20;" value="环境" vertex="1">
           <mxGeometry height="40" width="150" x="859" y="816" as="geometry" />
         </mxCell>
-        <mxCell id="279d4c6e8b4f5ae2-17" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=20;rotation=90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;" value="Event 2" vertex="1">
-          <mxGeometry height="110" width="20" x="733" y="401" as="geometry" />
+        <mxCell id="279d4c6e8b4f5ae2-17" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=south;notch=0;rounded=0;strokeWidth=1;fontSize=20;rotation=90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;" value="Event 2" vertex="1">
+          <mxGeometry height="110" width="20" x="857" y="404" as="geometry" />
         </mxCell>
-        <mxCell id="279d4c6e8b4f5ae2-18" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=20;rotation=90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;" value="管理问题" vertex="1">
-          <mxGeometry height="110" width="20" x="964" y="401" as="geometry" />
+        <mxCell id="279d4c6e8b4f5ae2-18" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=south;notch=0;rounded=0;strokeWidth=1;fontSize=20;rotation=90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;" value="管理问题" vertex="1">
+          <mxGeometry height="110" width="10" x="1089" y="401" as="geometry" />
         </mxCell>
         <mxCell id="279d4c6e8b4f5ae2-21" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=20;rotation=90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;" value="组织环境" vertex="1">
-          <mxGeometry height="110" width="20" x="897" y="706" as="geometry" />
+          <mxGeometry height="110" width="10" x="944" y="640" as="geometry" />
         </mxCell>
         <mxCell id="279d4c6e8b4f5ae2-23" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=20;rotation=90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;" value="Event 5" vertex="1">
           <mxGeometry height="110" width="20" x="773" y="485" as="geometry" />
         </mxCell>
-        <mxCell id="279d4c6e8b4f5ae2-24" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=20;rotation=90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;" value="Event 6" vertex="1">
-          <mxGeometry height="110" width="20" x="1004" y="485" as="geometry" />
+        <mxCell id="279d4c6e8b4f5ae2-24" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=20;rotation=90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;" value="个人问题" vertex="1">
+          <mxGeometry height="110" width="10" x="1004" y="485" as="geometry" />
         </mxCell>
         <mxCell id="279d4c6e8b4f5ae2-26" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=20;rotation=90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;" value="工具" vertex="1">
-          <mxGeometry height="110" width="20" x="740" y="660" as="geometry" />
+          <mxGeometry height="110" width="10" x="740" y="660" as="geometry" />
         </mxCell>
         <mxCell id="279d4c6e8b4f5ae2-27" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=south;notch=0;rounded=0;strokeWidth=1;fontSize=20;rotation=90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;" value="团队环境" vertex="1">
-          <mxGeometry height="110" width="20" x="1057" y="650" as="geometry" />
+          <mxGeometry height="110" width="10" x="1020" y="710" as="geometry" />
         </mxCell>
         <mxCell id="ph4Bot9KSBfFc9uMt93A-1" parent="1" style="shape=xor;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="80" width="60" x="590" y="580" as="geometry" />
         </mxCell>
         <mxCell id="ph4Bot9KSBfFc9uMt93A-2" parent="1" style="triangle;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;技术风险&lt;/font&gt;" vertex="1">
           <mxGeometry height="210" width="110" x="1171" y="515" as="geometry" />
+        </mxCell>
+        <mxCell id="GTLIoJQaMJHj5h0Rezw1-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="工程能力差&lt;div&gt;缺乏精益求精的精神&lt;/div&gt;&lt;div&gt;技术基础差&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="120" x="1150" y="440" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
