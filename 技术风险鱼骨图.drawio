@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.2.4">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.6">
   <diagram name="Page-1" id="b7a7eaba-c6c5-6fbe-34ae-1d3a4219ac39">
-    <mxGraphModel dx="1377" dy="693" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1271" dy="501" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" parent="0" style=";html=1;" />
@@ -31,7 +31,7 @@
         <mxCell id="279d4c6e8b4f5ae2-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;fontSize=20;" value="环境" vertex="1">
           <mxGeometry height="40" width="150" x="859" y="816" as="geometry" />
         </mxCell>
-        <mxCell id="279d4c6e8b4f5ae2-17" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=south;notch=0;rounded=0;strokeWidth=1;fontSize=20;rotation=90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;" value="Event 2" vertex="1">
+        <mxCell id="279d4c6e8b4f5ae2-17" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=south;notch=0;rounded=0;strokeWidth=1;fontSize=20;rotation=90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;" value="效率低下" vertex="1">
           <mxGeometry height="110" width="20" x="857" y="404" as="geometry" />
         </mxCell>
         <mxCell id="279d4c6e8b4f5ae2-18" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=south;notch=0;rounded=0;strokeWidth=1;fontSize=20;rotation=90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;" value="管理问题" vertex="1">
@@ -40,7 +40,7 @@
         <mxCell id="279d4c6e8b4f5ae2-21" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=20;rotation=90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;" value="组织环境" vertex="1">
           <mxGeometry height="110" width="10" x="944" y="640" as="geometry" />
         </mxCell>
-        <mxCell id="279d4c6e8b4f5ae2-23" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=20;rotation=90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;" value="Event 5" vertex="1">
+        <mxCell id="279d4c6e8b4f5ae2-23" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=20;rotation=90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;" value="流程问题" vertex="1">
           <mxGeometry height="110" width="20" x="773" y="485" as="geometry" />
         </mxCell>
         <mxCell id="279d4c6e8b4f5ae2-24" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=20;rotation=90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;" value="个人问题" vertex="1">
